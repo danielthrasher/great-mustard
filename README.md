@@ -29,3 +29,7 @@ The content of this site is managed by NetlifyCMS. Visit https://{yoursite-domai
         npm run develop
 
 1. Browse to [http://localhost:8000/](http://localhost:8000/)
+
+# Site Build Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1200614e-c56b-4077-af9c-d4f95fb556ac/deploy-status)](https://app.netlify.com/sites/thrashers-edge/deploys)
